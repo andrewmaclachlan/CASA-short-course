@@ -1,4 +1,5 @@
-book_filename: "bookdown-demo"
+book_filename: "CASA spatial data science for executives"
+output_dir: "docs"
 language:
   ui:
     chapter_name: "Chapter "
