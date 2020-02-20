@@ -12,25 +12,10 @@ github-repo: andrewmaclachlan/CASA-short-course
 description: ""
 ---
 
-# Prerequisites
-test23
-This is a _sample_ book written in **Markdown**. You can use anything that Pandoc's Markdown supports, e.g., a math equation $a^2 + b^2 = c^2$.
+# Welcome {-}
 
-The **bookdown** package can be installed from CRAN or Github:
+<a href="https://www.ucl.ac.uk/bartlett/casa/"><img src="general_images/casa_logo.jpg" height="200" alt="CASAlogo" align="right" style="margin: 0 1em 0 1em" /></a>
 
-```{r eval=FALSE}
-install.packages("bookdown")
-# or the development version
-# devtools::install_github("rstudio/bookdown")
-```
+Welcome to the CASA short course "spatial data science for executives". This website is hosted on GitHub and holds all the practical instructions and data. Data used within the practicals is available online, however occasionally websites can undergo maintenance or be inaccessible due to political factors such as government shutdowns.  
 
-Remember each Rmd file contains one and only one chapter, and a chapter is defined by the first-level heading `#`.
 
-To compile this example to PDF, you need XeLaTeX. You are recommended to install TinyTeX (which includes XeLaTeX): <https://yihui.name/tinytex/>.
-
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
