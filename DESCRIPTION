@@ -1,6 +1,6 @@
-Package: placeholder
+Package: CASA-short-course
 Type: Book
-Title: Does not matter.
+Title: CASA spatial data science short course
 Version: 0.0.1
 Imports: bookdown
 Remotes: rstudio/bookdown
