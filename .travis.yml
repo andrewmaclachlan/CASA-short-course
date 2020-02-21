@@ -16,5 +16,5 @@ deploy:
   github_token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep_history: true
   on:
-  repo: andrewmaclachlan/andrewmaclachlan.github.io
+  repo: andrewmaclachlan/CASA-short-course.github.io
   target_branch: master
