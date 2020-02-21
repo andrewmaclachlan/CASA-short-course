@@ -1,6 +1,6 @@
 book_filename: "CASA-spatial-data-science-for-executives"
 #change to docs for local and normal not travis build
-output_dir: "docs"
+output_dir: "_book"
 language:
   ui:
     chapter_name: "Chapter "
