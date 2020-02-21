@@ -11,6 +11,9 @@ link-citations: yes
 github-repo: andrewmaclachlan/CASA-short-course
 description: ""
 ---
+
+The online version of the book is hosted at [andrewmaclachlan.github.io](https://andrewmaclachlan.github.io/CASA0005repo/) and kept up-to-date by [Travis](https://travis-ci.com/andrewmaclachlan/CASA-short-course), which provides information on its 'build status' as follows:
+
 [![Build Status](https://travis-ci.com/andrewmaclachlan/CASA-short-course.svg?branch=master
 )](https://travis-ci.com/andrewmaclachlan/CASA-short-course)
 
